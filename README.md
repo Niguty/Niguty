@@ -19,8 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="30" alt="git logo" />
+  <img width="12" />
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="30" alt="mysql logo" />
+  <img width="12" />
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="30" alt="python logo" />
+  <img width="12" />
 </div>
 
 ###
