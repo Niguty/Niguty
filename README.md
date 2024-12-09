@@ -20,6 +20,7 @@
   <img width="12" />
   <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="30" alt="git logo" />
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="30" alt="mysql logo" />
+  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="30" alt="python logo" />
 </div>
 
 ###
