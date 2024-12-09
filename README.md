@@ -37,11 +37,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lucas-niguti-1401b8280/">
+<a href="https://www.linkedin.com/in/lucas-niguti-1401b8280">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+<img width="12" />
   </a>
   <a href="https://www.kaggle.com/lucasnigutids">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&style=for-the-badge" height="35" alt="kaggle logo" />
+<img width="12" />
   </a>
 </div>
 
