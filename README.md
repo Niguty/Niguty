@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niguty&layout=compact&langs_count=7&theme=gotham" height="150" alt="languages graph" />
 </div>
 
+<h2 align="left">I code with</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -16,6 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" height="30" alt="git logo" />
 </div>
 
 ###
