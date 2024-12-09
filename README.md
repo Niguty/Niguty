@@ -24,6 +24,12 @@
   <img width="12" />
   <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" height="30" alt="python logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" height="30" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
+  <img width="12" />
 </div>
 
 ###
