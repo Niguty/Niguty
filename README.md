@@ -38,4 +38,11 @@
 
 <a href="https://www.linkedin.com/in/lucas-niguti-1401b8280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Niguty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
