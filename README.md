@@ -41,9 +41,8 @@
 
 ###
 
-<div>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Niguty&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=Niguty&theme=default" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Niguty&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
