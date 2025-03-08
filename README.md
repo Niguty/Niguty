@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lucas Niguti</h2>
+<h2 align="left">Hi, how is going! My name is Lucas Niguti</h2>
 
 ###
 
